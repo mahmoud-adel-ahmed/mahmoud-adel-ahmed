@@ -22,6 +22,10 @@
 ![Joi](https://img.shields.io/badge/Joi-009688?style=for-the-badge&logoColor=white)
 ![Encrypt](https://img.shields.io/badge/Encrypt-00BCD4?style=for-the-badge&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-0AFFEF?style=for-the-badge&logo=neon&logoColor=000000)
+
 
 ### Front-End Skills
 
